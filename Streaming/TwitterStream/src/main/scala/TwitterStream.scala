@@ -39,11 +39,11 @@ object TwitterStream {
       println("\nNew Data")
       var json = "{\"name\":\"hashtag\",\n\"children\": ["
       var withData = false
-      for(item <- rdd.take(10).toArray) {
+      for(item <- rdd.take(100).toArray) {
           if(!withData){
             withData = true
           }
-          json+="\n{\"name\":\""+ item._2 +"\",\"size\":"+ item._1 +"},"
+          json+="\n{\"name\":\""+ item._2.replaceAll("\\s","") +"\",\"size\":"+ item._1 +"},"
       }
       if(withData){
         json = json.substring(0,json.length()-1)
