@@ -4,38 +4,61 @@ import org.apache.spark.streaming._
 import org.apache.spark.streaming.twitter._
 import org.apache.spark.streaming.StreamingContext._
 import scala.collection.mutable.HashMap
+import org.json4s._
+import org.json4s.native.JsonMethods._
+import java.io._
 
 object TwitterStream {
   def main(args: Array[String]) {
 
-    // Configure Twitter credentials
+    //Twitter credentials
     val apiKey = "02Cge8Y55ODfYZydLLRUrm3By"
     val apiSecret ="IF0DwQP7uCABl0c1RD0JS3dYpwoJ35X32KAdg9YRbcqVzfwngd"
     val accessToken ="215737253-BjvNZzBQlFFF8O1pkbXFx1JJiomoVyozAJWKcGdY"
     val accessTokenSecret ="hcxy5XxMjaeRFeJHIP1BgObMCAiwDoVQNhndAWrjAtOjY"
     configureTwitterCredentials(apiKey, apiSecret, accessToken, accessTokenSecret)
+   
+    //Processing
+    val sc = new SparkConf().setAppName("TwitterStream").setMaster("local[4]")
+    val ssc = new StreamingContext(sc, Seconds(1))
+    val tweets = TwitterUtils.createStream(ssc, None)
+    val statuses = tweets.map(status => status.getText())
+    val words = statuses.flatMap(status => status.split(" "))
+    val hashtags = words.filter(word => word.startsWith("#"))
 
-    // Your code goes here
-val sc = new SparkConf().setAppName("TwitterStream").setMaster("local[4]")
-val ssc = new StreamingContext(sc, Seconds(1))
-val tweets = TwitterUtils.createStream(ssc, None)
-val statuses = tweets.map(status => status.getText())
-val words = statuses.flatMap(status => status.split(" "))
-val hashtags = words.filter(word => word.startsWith("#"))
-
-val counts = hashtags.map(tag => (tag, 1))
+    val counts = hashtags.map(tag => (tag, 1))
                      .reduceByKeyAndWindow(_ + _, _ - _, Seconds(60 * 5), Seconds(1))
 
-val sortedCounts = counts.map { case(tag, count) => (count, tag) }
+    val sortedCounts = counts.map { case(tag, count) => (count, tag) }
                          .transform(rdd => rdd.sortByKey(false))
 
-sortedCounts.print()
 
-ssc.checkpoint("/tmp/")
-ssc.start()
-ssc.awaitTermination()
+    //Creating JSON with the 10 Hashtags more tweeted
+    sortedCounts.foreachRDD( rdd => {
+          val writer = new PrintWriter(new File("/tmp/test.txt" ))
+      println("\nNew Data")
+      var json = "{\"name\":\"hashtag\",\"children\": ["
+      var withData = false
+      for(item <- rdd.take(10).toArray) {
+          if(!withData){
+            withData = true
+          }
+          json+="{\"name\":\""+ item._2 +"\",\"size\":"+ item._1 +"\"},"
+      }
+      if(withData){
+        json = json.substring(0,json.length()-1)
+      }
+      json += "]}"
+      writer.write(json)
+      writer.close()
+      print(json)
+    })
 
+   
 
+    ssc.checkpoint("/tmp/")
+    ssc.start()
+    ssc.awaitTermination()
   }
 
  def configureTwitterCredentials(apiKey: String, apiSecret: String, accessToken: String, accessTokenSecret: String) {

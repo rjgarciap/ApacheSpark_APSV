@@ -7,7 +7,9 @@ scalaVersion := "2.10.3"
 libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-core" % "1.1.0" % "provided",
   "org.apache.spark" %% "spark-streaming" % "1.1.0" % "provided",
-  "org.apache.spark" %% "spark-streaming-twitter" % "1.2.0"
+  "org.apache.spark" %% "spark-streaming-twitter" % "1.2.0",
+  "org.json4s" %% "json4s-native" % "3.3.0",
+  "org.json4s" %% "json4s-jackson" % "3.3.0"
 )
 
 resourceDirectory in Compile := baseDirectory.value / "resources"

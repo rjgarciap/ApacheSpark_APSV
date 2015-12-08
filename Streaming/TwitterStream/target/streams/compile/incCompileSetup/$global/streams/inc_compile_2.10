@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes
+output dir -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes
 compile options:
 0 items
 javac options:
@@ -19,26 +19,29 @@ name hashing:
 1 items
 0 -> true
 products:
-11 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$1.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$2.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$3.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$4.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$5.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$6.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$7.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$8.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$configureTwitterCredentials$1.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$.class
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream.class
+13 items
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$1.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$2.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$3.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$4.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$5.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$6.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$7.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$8.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$configureTwitterCredentials$1.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1$$anonfun$apply$1.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$.class
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream.class
 binary dependencies:
-6 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+7 items
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.3.0.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /home/rjgarcia/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -56,164 +59,211 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-11 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$1
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$2
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$3
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$4
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$5
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$6
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$7
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$8
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$configureTwitterCredentials$1
+13 items
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$1
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$2
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$3
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$4
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$5
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$6
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$7
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$8
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$configureTwitterCredentials$1
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$main$1
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream$$anonfun$main$1$$anonfun$apply$1
 used names:
-99 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> +
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> ++=
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> -
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> ->
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> <init>
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> AnyRef
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Array
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> ClassTag
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Exception
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> HashMap
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Int
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> None
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Ordering
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Predef
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Seconds
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Seq
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> SparkConf
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> SparkContext
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> StreamingContext
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> String
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> System
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterStream
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> TwitterUtils
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> Unit
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> _1
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> _2
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> accessToken
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> accessTokenSecret
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> any2ArrowAssoc
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> apache
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> apiKey
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> apiSecret
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> apply
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> awaitTermination
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> checkpoint
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> collection
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> configs
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> configureTwitterCredentials
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> count
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> counts
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> createStream
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> filter
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> flatMap
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> foreach
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> fullKey
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> getText
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> hashtags
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> isEmpty
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> java
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> key
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> lang
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> map
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> materializeClassTag
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> math
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> mutable
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> ne
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> org
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> package
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> print
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> println
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> qual$1
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> qual$2
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> rdd
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> rddToOrderedRDDFunctions
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> reduceByKeyAndWindow
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> replace
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> sc
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> scala
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> setAppName
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> setMaster
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> setProperty
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> sortByKey
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> sortedCounts
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> spark
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> split
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> ssc
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> start
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> startsWith
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> status
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> statuses
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> streaming
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> tag
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> toPairDStreamFunctions
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> transform
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> trim
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> tweets
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> twitter
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> value
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> word
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> words
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> wrapRefArray
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$10
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$11
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$12
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$5
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$6
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$7
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$8
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> x$9
+118 items
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> +
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> ++=
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> -
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> ->
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> <init>
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> AnyRef
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Array
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> ClassTag
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Exception
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> File
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> HashMap
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Int
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> JsonMethods
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> None
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Ordering
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Predef
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> PrintWriter
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Seconds
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Seq
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> SparkConf
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> SparkContext
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> StreamingContext
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> String
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> System
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterStream
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> TwitterUtils
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> Unit
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> _1
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> _2
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> accessToken
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> accessTokenSecret
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> any2ArrowAssoc
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> apache
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> apiKey
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> apiSecret
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> apply
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> awaitTermination
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> checkpoint
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> close
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> collection
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> configs
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> configureTwitterCredentials
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> count
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> counts
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> createStream
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> filter
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> flatMap
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> foreach
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> foreachRDD
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> fullKey
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> getText
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> hashtags
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> io
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> isEmpty
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> item
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> java
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> json
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> json4s
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> key
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> lang
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> length
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> map
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> materializeClassTag
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> math
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> mutable
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> native
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> ne
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> org
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> package
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> print
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> println
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> qual$1
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> qual$2
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> rdd
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> rddToOrderedRDDFunctions
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> reduceByKeyAndWindow
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> refArrayOps
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> replace
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> sc
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> scala
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> setAppName
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> setMaster
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> setProperty
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> sortByKey
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> sortedCounts
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> spark
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> split
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> ssc
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> start
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> startsWith
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> status
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> statuses
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> streaming
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> substring
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> tag
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> take
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> toArray
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> toPairDStreamFunctions
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> transform
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> trim
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> tweets
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> twitter
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> unary_!
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> value
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> withData
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> word
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> words
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> wrapRefArray
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> write
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> writer
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$10
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$11
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$12
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$5
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$6
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$7
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$8
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> x$9
 product stamps:
-11 items
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$1.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$2.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$3.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$4.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$5.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$6.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$7.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$8.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$$anonfun$configureTwitterCredentials$1.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream$.class -> lastModified(1449529674000)
-/home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/classes/TwitterStream.class -> lastModified(1449529674000)
+13 items
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$1.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$2.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$3.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$4.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$5.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$6.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$7.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$8.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$configureTwitterCredentials$1.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$.class -> lastModified(1449589305000)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream.class -> lastModified(1449589305000)
 source stamps:
 1 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> hash(07543dc54f2a793bb2a5502bde3acb39ce85d59f)
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> hash(bc42eceb67091897a05ff1deef736a2435440d20)
 binary stamps:
-6 items
+7 items
 /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> lastModified(1409722360000)
 /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar -> lastModified(1418205645000)
 /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar -> lastModified(1409722639000)
+/home/rjgarcia/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.3.0.jar -> lastModified(1443877545000)
 /home/rjgarcia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> lastModified(1380275091000)
 /home/rjgarcia/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> lastModified(1356264771000)
 /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1447914400000)
 class names:
-6 items
-/home/rjgarcia/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.rdd.OrderedRDDFunctions
+7 items
+/home/rjgarcia/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.SparkContext$
 /home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar -> org.apache.spark.streaming.twitter.TwitterUtils$
-/home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar -> org.apache.spark.streaming.StreamingContext$
-/home/rjgarcia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> scala.collection.Seq$
+/home/rjgarcia/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar -> org.apache.spark.streaming.Duration
+/home/rjgarcia/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.3.0.jar -> org.json4s.native.JsonMethods$
+/home/rjgarcia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> scala.collection.generic.GenericCompanion
 /home/rjgarcia/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> twitter4j.Status
 /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 1 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHANOjqZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJnmlfR0AAZub3RpZnlzcQB+AAypornNdAAEd2FpdHNxAH4ADDDxFAN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMQsj1HXQABmVxdWFsc3NxAH4ADOBl5Nx0AAxhc0luc3RhbmNlT2ZzcQB+AAxY+TcsdAAMc3luY2hyb25pemVkc3EAfgAMhnfrAnQADSRpc0luc3RhbmNlT2ZzcQB+AAwar5yidAAbY29uZmlndXJlVHdpdHRlckNyZWRlbnRpYWxzc3EAfgAM23pedHQABG1haW5zcQB+AAzX6v0ydAAJbm90aWZ5QWxsc3EAfgAMqIg/TXQADGlzSW5zdGFuY2VPZnNxAH4ADLoDeO10AA1Ud2l0dGVyU3RyZWFtc3EAfgAMCfclpXQAAj09c3EAfgAMO9dalHQABWNsb25lc3EAfgAMSK2BV3QACHRvU3RyaW5nc3EAfgAMAZmmWnQAAiE9c3EAfgAM/ocqzXQACGdldENsYXNzc3EAfgAMELJGIXQAAm5lc3EAfgAML/xv6HQAAmVxc3EAfgAMvR7iLnQAAiMjc3EAfgAMXR4Pq3QACGZpbmFsaXplc3EAfgAMZesw5HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGFzcQB+AFoBdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAfdXEAfgBSAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AcFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYHNxAH4Ab3QABUFycmF5cQB+AHV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ab3QABlN0cmluZ3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHt0AARqYXZhc3EAfgB7dAAEbGFuZ3EAfgCAcHNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cQB+AJQAAAACc3EAfgBvdAAGT2JqZWN0cQB+AJhzcQB+AG90AANBbnlxAH4AdXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVF+s3PydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQHVD3FTyp5O7KlUCveOss5zoXVnw==
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHANOjqZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJnmlfR0AAZub3RpZnlzcQB+AAypornNdAAEd2FpdHNxAH4ADDDxFAN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMQsj1HXQABmVxdWFsc3NxAH4ADOBl5Nx0AAxhc0luc3RhbmNlT2ZzcQB+AAxY+TcsdAAMc3luY2hyb25pemVkc3EAfgAMhnfrAnQADSRpc0luc3RhbmNlT2ZzcQB+AAwar5yidAAbY29uZmlndXJlVHdpdHRlckNyZWRlbnRpYWxzc3EAfgAM23pedHQABG1haW5zcQB+AAzX6v0ydAAJbm90aWZ5QWxsc3EAfgAMqIg/TXQADGlzSW5zdGFuY2VPZnNxAH4ADLoDeO10AA1Ud2l0dGVyU3RyZWFtc3EAfgAMCfclpXQAAj09c3EAfgAMO9dalHQABWNsb25lc3EAfgAMSK2BV3QACHRvU3RyaW5nc3EAfgAMAZmmWnQAAiE9c3EAfgAM/ocqzXQACGdldENsYXNzc3EAfgAMELJGIXQAAm5lc3EAfgAML/xv6HQAAmVxc3EAfgAMvR7iLnQAAiMjc3EAfgAMXR4Pq3QACGZpbmFsaXplc3EAfgAMZesw5HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGFzcQB+AFoBdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAfdXEAfgBSAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AcFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYHNxAH4Ab3QABUFycmF5cQB+AHV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ab3QABlN0cmluZ3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHt0AARqYXZhc3EAfgB7dAAEbGFuZ3EAfgCAcHNxAH4AWgF1cQB+AD4AAAAAcHNxAH4AWgF1cQB+AJQAAAACc3EAfgBvdAAGT2JqZWN0cQB+AJhzcQB+AG90AANBbnlxAH4AdXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVGCQVYhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUvELs62cJGJegX/He73NqJDVEDSA=
 external apis:
 0 items
 source infos:
 1 items
-/home/rjgarcia/Escritorio/streaming/scala/src/main/scala/TwitterStream.scala -> 
+/home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/src/main/scala/TwitterStream.scala -> 
 AAAAAAAAAAA=
 compilations:
-4 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX4pEZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX4qwWx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX6xwMl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX6zc/J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+26 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX4pEZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX4qwWx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX6xwMl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUX6zc/J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vc3RyZWFtaW5nL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYEE7fl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYE6CFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYE+Out1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYFEfHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYFFtdh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYFHbW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYFe/Rd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYH/1s51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIBDZl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIRxqp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIUJix1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIadq11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIcQMN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIdjb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIjQyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIkkYF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIoGF51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIxCEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIxwf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYI8zxt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYI/ECR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYJBViF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL3JqZ2FyY2lhL0VzY3JpdG9yaW8vQXBhY2hlU3BhcmtfQVBTVi9TdHJlYW1pbmcvVHdpdHRlclN0cmVhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
