@@ -1,1 +1,29 @@
-[0m[[0mdebug[0m] [0mJar uptodate: /home/rjgarcia/Escritorio/streaming/scala/target/scala-2.10/twitterstream_2.10-0.1-SNAPSHOT.jar[0m
+[0m[[0minfo[0m] [0mPackaging /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/twitterstream_2.10-0.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$configureTwitterCredentials$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$configureTwitterCredentials$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/classes/TwitterStream$$anonfun$4.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
