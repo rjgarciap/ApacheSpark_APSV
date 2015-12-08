@@ -39,7 +39,7 @@ d3.json("data.json", function(error, root) {
 
 window.setInterval(function(){
   d3.json("data.json", function(error, root) {changebubble(root) });
-}, 5000);
+}, 1000);
 
 
   // setTimeout(function(){ d3.json("data.json", function(error, root) {changebubble(root) });}, 5000);

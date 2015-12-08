@@ -1,17 +1,17 @@
-[0m[[0minfo[0m] [0mIncluding: spark-streaming-twitter_2.10-1.2.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: json4s-ast_2.10-3.3.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: json4s-jackson_2.10-3.3.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: unused-1.0.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: json4s-native_2.10-3.3.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: twitter4j-stream-3.0.3.jar[0m
-[0m[[0minfo[0m] [0mIncluding: jackson-databind-2.6.2.jar[0m
-[0m[[0minfo[0m] [0mIncluding: json4s-scalap_2.10-3.3.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: twitter4j-core-3.0.3.jar[0m
-[0m[[0minfo[0m] [0mIncluding: paranamer-2.8.jar[0m
-[0m[[0minfo[0m] [0mIncluding: jackson-annotations-2.6.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: jackson-core-2.6.2.jar[0m
-[0m[[0minfo[0m] [0mIncluding: scala-library-2.10.6.jar[0m
-[0m[[0minfo[0m] [0mIncluding: json4s-core_2.10-3.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: json4s-ast_2.10-3.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: spark-streaming-twitter_2.10-1.2.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: unused-1.0.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: twitter4j-stream-3.0.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: json4s-native_2.10-3.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: json4s-scalap_2.10-3.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: paranamer-2.8.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: twitter4j-core-3.0.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: json4s-jackson_2.10-3.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-databind-2.6.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-annotations-2.6.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-core-2.6.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-library-2.10.6.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: json4s-core_2.10-3.3.0.jar[0m
 [0m[[0mdebug[0m] [0mCalculate mappings...[0m
 [0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
 [0m[[0minfo[0m] [0mMerging files...[0m
@@ -24,7 +24,7 @@
 [0m[[33mwarn[0m] [0mMerging 'org/apache/spark/unused/UnusedStubClass.class' with strategy 'first'[0m
 [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to a file[0m
 [0m[[33mwarn[0m] [0mStrategy 'first' was applied to 6 files[0m
-[0m[[0minfo[0m] [0mSHA-1: fcb338417077df67c8ebf9f85a866d90befd30b2[0m
+[0m[[0minfo[0m] [0mSHA-1: 1c503a4a18f772d5b94606f37162e4b0c45dd760[0m
 [0m[[0minfo[0m] [0mPackaging /home/rjgarcia/Escritorio/ApacheSpark_APSV/Streaming/TwitterStream/target/scala-2.10/TwitterStream-assembly-0.1-SNAPSHOT.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	META-INF/DEPENDENCIES[0m

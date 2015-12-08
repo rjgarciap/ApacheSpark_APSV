@@ -37,18 +37,18 @@ object TwitterStream {
     sortedCounts.foreachRDD( rdd => {
           val writer = new PrintWriter(new File("./d3bubbles/data.json" ))
       println("\nNew Data")
-      var json = "{\"name\":\"hashtag\",\"children\": ["
+      var json = "{\"name\":\"hashtag\",\n\"children\": ["
       var withData = false
-      for(item <- rdd.take(100).toArray) {
+      for(item <- rdd.take(10).toArray) {
           if(!withData){
             withData = true
           }
-          json+="{\"name\":\""+ item._2 +"\",\"size\":"+ item._1 +"},"
+          json+="\n{\"name\":\""+ item._2 +"\",\"size\":"+ item._1 +"},"
       }
       if(withData){
         json = json.substring(0,json.length()-1)
       }
-      json += "]}"
+      json += "\n]}"
       writer.write(json)
       writer.close()
       print(json)
