@@ -1,8 +1,7 @@
-import sys
+import sys,string
 from operator import add
 
 from pyspark import SparkContext
-
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -13,9 +12,14 @@ if __name__ == "__main__":
                   .map(lambda x: (x, 1)) \
                   .reduceByKey(add)
     output = counts.collect()
-    with open("Output.txt", "w") as text_file:  
+    with open("./data.json", "w") as text_file: 
+     json = "{\"name\":\"hashtag\",\"children\":["
+     text_file.write(json)
      for (word, count) in output:
-      text=word+","+str(count)+"\n"
-      text_file.write(text)
+      json="\n{\"name\":\""+word+"\",\"size\":"+str(count)+"},"
+      text_file.write(json)
+     json = "\n]}"
+     text_file.write(json)
+     text_file.close()
 
     sc.stop()
