@@ -1,5 +1,5 @@
 
-var diameter = 500,
+var diameter = 700,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
@@ -8,7 +8,7 @@ var bubble = d3.layout.pack()
     .size([diameter, diameter])
     .padding(1.5);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#bubbles").append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
     .attr("class", "bubble");
@@ -24,7 +24,7 @@ d3.json("data.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   node.append("title")
-      .text(function(d) { return d.className + ": " + format(d.value); });
+      .text(function(d) { return d.className + ": " + d.value; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
@@ -73,7 +73,7 @@ function changebubble(root) {
     nodeEnter
         .append("title")
         .text(function (d) {
-            return d.className + ": " + format(d.value);
+            return d.className + ": " + d.value;
         });
     nodeEnter.append("text")
       .attr("dy", ".3em")
@@ -88,7 +88,10 @@ function changebubble(root) {
         .style("fill", function (d, i) {
             return color(d.className);
         });
-
+   node.select("title")
+        .text(function (d) {
+            return d.className + ": " + d.value;
+        });
     node.transition().attr("class", "node")
         .attr("transform", function (d) {
         return "translate(" + d.x + "," + d.y + ")";
