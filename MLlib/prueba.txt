@@ -1,0 +1,20 @@
+0::260::5::1400000000::Star Wars: Episode IV - A New Hope (1977)::Action|Adventure|Sci-Fi
+0::1195::5::1400000000::Star Wars: Episode V - The Empire Strikes Back (1980)::Action|Adventure|Sci-Fi
+0::1210::5::1400000000::Star Wars: Episode VI - Return of the Jedi (1983)::Action|Adventure|Sci-Fi
+0::2628::3.8::1400000000::Star Wars: Episode I - The Phantom Menace (1999)::Action|Adventure|Sci-Fi
+0::118696::4.5::The Hobbit: The Battle of the Five Armies (2014)::Adventure|Fantasy
+0::3793::4.7::X-Men (2000)::Action|Adventure|Sci-Fi
+0::6333::4.6::X2: X-Men United (2003)::Action|Adventure|Sci-Fi|Thriller
+0::129397::4.5::Marvel One-Shot: Item 47 (2012)::Action|Fantasy|Sci-Fi
+0::130219::4.3::The Dark Knight (2011)::Action|Crime|Drama|Thriller
+0::136455::4.6::Iron Man & Captain America: Heroes United (2014)::Action|Adventure|Animation
+0::8961::4::Incredibles, The (2004)::Action|Adventure|Animation|Children|Comedy
+0::2643::4.7::Superman IV: The Quest for Peace (1987)::Action|Adventure|Sci-Fi
+0::79132::5::Inception (2010)::Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+0::60684::4.7::Watchmen (2009)::Action|Drama|Mystery|Sci-Fi|Thriller|IMAX
+0::47382::1.5::Step Up (2006)::Drama|Romance
+0::80222::1::Step Up 3D (2010)::Drama|Romance
+0::26357::0.3::Trilogy of Terror (1975)::Horror|Thriller
+0::2785::0.9::Tales of Terror (1962)::Horror
+0::2856::0.8::I Saw What You Did (1965)::Thriller
+0::3081::0.4::Sleepy Hollow (1999)::Fantasy|Horror|Mystery|Romance
